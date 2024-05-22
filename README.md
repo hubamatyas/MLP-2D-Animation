@@ -1,7 +1,5 @@
 # MLP-2D-Animation
 
-![Result](result_bw_video.mp4)
-
 ## 1. Linear Fitting (10 points)
 <a name='question1'></a>
 
